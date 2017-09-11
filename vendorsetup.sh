@@ -1,0 +1,3 @@
+add_lunch_combo lineage_vegetahd-userdebug
+add_lunch_combo lineage_vegetahd-eng
+add_lunch_combo lineage_vegetahd-user
